@@ -1,0 +1,262 @@
+Enter house file: houses/winnable.txt
+c       #         # 
+-       #         # 
+| U     #         # 
+- -     # r U r U # 
+  | c   # - - - - # 
+  - -   # |     | # 
+    | r # |     | # 
+
+Enter a move: ls
+Rooms:
+Bal1
+0: Cereus has 10 health and is 0 days old
+1: None
+2: Cereus has 10 health and is 0 days old
+3: Rebutia has 10 health and is 0 days old
+Bed1
+0: Rebutia has 10 health and is 0 days old
+1: None
+2: Rebutia has 10 health and is 0 days old
+3: None
+Inventory Plant:
+[Plant('Rebutia')]
+[Plant('Cereus')]
+[Plant('Disocactus')]
+Inventory Item:
+[Fertiliser(), Fertiliser(), Fertiliser(), Fertiliser(), Fertiliser(), Fertiliser(), Fertiliser(), Fertiliser(), Fertiliser()]
+[PossumRepellent(), PossumRepellent(), PossumRepellent(), PossumRepellent()]
+c       #         # 
+-       #         # 
+| U     #         # 
+- -     # r U r U # 
+  | c   # - - - - # 
+  - -   # |     | # 
+    | r # |     | # 
+
+Enter a move: a Bal1 0 R
+c       #         # 
+-       #         # 
+| U     #         # 
+- -     # r U r U # 
+  | c   # - - - - # 
+  - -   # |     | # 
+    | r # |     | # 
+
+Enter a move: a Bal1 2 R
+c       #         # 
+-       #         # 
+| U     #         # 
+- -     # r U r U # 
+  | c   # - - - - # 
+  - -   # |     | # 
+    | r # |     | # 
+
+Enter a move: a Bal1 3 R
+c       #         # 
+-       #         # 
+| U     #         # 
+- -     # r U r U # 
+  | c   # - - - - # 
+  - -   # |     | # 
+    | r # |     | # 
+
+Enter a move: n
+There has been an animal attack! But luckily the Rebutia has repellent.
+c       #         # 
+-       #         # 
+| U     #         # 
+- -     # r U r U # 
+  | c   # - - - - # 
+  - -   # |     | # 
+    | r # |     | # 
+
+Enter a move: n
+There has been an animal attack! But luckily the Rebutia has repellent.
+c       #         # 
+-       #         # 
+| U     #         # 
+- -     # r U r U # 
+  | c   # - - - - # 
+  - -   # |     | # 
+    | r # |     | # 
+
+Enter a move: n
+There has been an animal attack! But luckily the Rebutia has repellent.
+C       #         # 
+-       #         # 
+| U     #         # 
+- -     # R U R U # 
+  | C   # - - - - # 
+  - -   # |     | # 
+    | R # |     | # 
+
+Enter a move: n
+There has been an animal attack! But luckily the Cereus has repellent.
+C       #         # 
+-       #         # 
+| U     #         # 
+- -     # R U R U # 
+  | C   # - - - - # 
+  - -   # |     | # 
+    | R # |     | # 
+
+Enter a move: n
+There has been an animal attack! But luckily the Cereus has repellent.
+C       #         # 
+-       #         # 
+| U     #         # 
+- -     # R U R U # 
+  | C   # - - - - # 
+  - -   # |     | # 
+    | R # |     | # 
+
+Enter a move: n
+There has been an animal attack! But luckily the Cereus has repellent.
+C       #         # 
+-       #         # 
+| U     #         # 
+- -     # R U R U # 
+  | C   # - - - - # 
+  - -   # |     | # 
+    | R # |     | # 
+
+Enter a move: ls
+Rooms:
+Bal1
+0: Cereus has 10 health and is 6 days old
+1: None
+2: Cereus has 10 health and is 6 days old
+3: Rebutia has 10 health and is 6 days old
+Bed1
+0: Rebutia has 10 health and is 6 days old
+1: None
+2: Rebutia has 10 health and is 6 days old
+3: None
+Inventory Plant:
+[Plant('Rebutia')]
+[Plant('Cereus')]
+[Plant('Disocactus')]
+Inventory Item:
+[Fertiliser(), Fertiliser(), Fertiliser(), Fertiliser(), Fertiliser(), Fertiliser(), Fertiliser(), Fertiliser(), Fertiliser(), Fertiliser(), Fertiliser()]
+[PossumRepellent(), PossumRepellent(), PossumRepellent()]
+C       #         # 
+-       #         # 
+| U     #         # 
+- -     # R U R U # 
+  | C   # - - - - # 
+  - -   # |     | # 
+    | R # |     | # 
+
+Enter a move: n
+There has been an animal attack! But luckily the Rebutia has repellent.
+C       #         # 
+-       #         # 
+| U     #         # 
+- -     # R U R U # 
+  | C   # - - - - # 
+  - -   # |     | # 
+    | R # |     | # 
+
+Enter a move: ls Bal1 0
+The pot at Balcony position 0 experiences: 
+    sun levels of (8, 10) and evaporation of 1.2.
+Cereus lives here, requires sun levels of (7, 10)
+    7 days old and water levels 0.9 and has repellent
+C       #         # 
+-       #         # 
+| U     #         # 
+- -     # R U R U # 
+  | C   # - - - - # 
+  - -   # |     | # 
+    | R # |     | # 
+
+Enter a move: n
+There has been an animal attack! But luckily the Cereus has repellent.
+There has been an animal attack! But luckily the Rebutia has repellent.
+C       #         # 
+-       #         # 
+| U     #         # 
+- -     # R U R U # 
+  | C   # - - - - # 
+  - -   # |     | # 
+    | R # |     | # 
+
+Enter a move: n
+C       #         # 
+-       #         # 
+| U     #         # 
+- -     # R U R U # 
+  | C   # - - - - # 
+  - -   # |     | # 
+    | R # |     | # 
+
+Enter a move: n
+There has been an animal attack! But luckily the Cereus has repellent.
+There has been an animal attack! But luckily the Rebutia has repellent.
+C       #         # 
+-       #         # 
+| U     #         # 
+- -     # R U R U # 
+  | C   # - - - - # 
+  - -   # |     | # 
+    | R # |     | # 
+
+Enter a move: ls
+Rooms:
+Bal1
+0: Cereus has 7 health and is 10 days old
+1: None
+2: Cereus has 7 health and is 10 days old
+3: Rebutia has 8 health and is 10 days old
+Bed1
+0: Rebutia has 10 health and is 10 days old
+1: None
+2: Rebutia has 10 health and is 10 days old
+3: None
+Inventory Plant:
+[Plant('Rebutia')]
+[Plant('Cereus')]
+[Plant('Disocactus')]
+Inventory Item:
+[Fertiliser(), Fertiliser(), Fertiliser(), Fertiliser(), Fertiliser(), Fertiliser(), Fertiliser(), Fertiliser(), Fertiliser(), Fertiliser(), Fertiliser(), Fertiliser()]
+[PossumRepellent(), PossumRepellent(), PossumRepellent(), PossumRepellent()]
+C       #         # 
+-       #         # 
+| U     #         # 
+- -     # R U R U # 
+  | C   # - - - - # 
+  - -   # |     | # 
+    | R # |     | # 
+
+Enter a move: n
+C       #         # 
+-       #         # 
+| U     #         # 
+- -     # R U R U # 
+  | C   # - - - - # 
+  - -   # |     | # 
+    | R # |     | # 
+
+Enter a move: n
+There has been an animal attack! But luckily the Cereus has repellent.
+C       #         # 
+-       #         # 
+| U     #         # 
+- -     # R U R U # 
+  | C   # - - - - # 
+  - -   # |     | # 
+    | R # |     | # 
+
+Enter a move: n
+There has been an animal attack! But luckily the Cereus has repellent.
+C       #         # 
+-       #         # 
+| U     #         # 
+- -     # R U R U # 
+  | C   # - - - - # 
+  - -   # |     | # 
+    | R # |     | # 
+
+Enter a move: n
+Well done for keeping more than half the plants alive.
